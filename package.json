@@ -1,0 +1,20 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YongheeAn/typechain.git"
+  },
+  "author": "Yonghee An",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YongheeAn/typechain/issues"
+  },
+  "homepage": "https://github.com/YongheeAn/typechain#readme"
+}

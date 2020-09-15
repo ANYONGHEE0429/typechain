@@ -1,3 +1,3 @@
 # typechain
 
-This will be my first personal project
+Typescript by making a Blockchain with it
